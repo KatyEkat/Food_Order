@@ -18,8 +18,8 @@ const DUMMY_MEALS = [
   },
   {
     id: "m3",
-    name: "Barbecue Burger",
-    description: "American, raw, meaty",
+    name: "BBQ Burger",
+    description: "American cheese, beef, lettuce, tomato, onion, mayo",
     price: 12.99,
   },
   {
